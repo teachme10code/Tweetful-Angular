@@ -1,0 +1,46 @@
+.masthead-intro {
+  font-weight: bold;
+}
+
+.masthead-intro,
+.masthead-heading {
+  text-align: center;
+  font-size: 1.8em;
+}
+
+.masthead {
+  padding: 3em 0 1em 0;
+  text-align: center;
+  border-bottom: 1px solid #b8bab8;
+}
+
+.masthead-heading {
+  margin-bottom: 0em;
+}
+
+.masthead-intro {
+  margin-top: -0.2em;
+}
+
+.info h1 {
+  text-align: center;
+}
+
+.info-container {
+  text-align:center;
+  margin-top: 2em
+}
+
+.info {
+  vertical-align:top;
+  display:inline-block;
+  width: 30%;
+  padding-left: 30px;
+  box-sizing:border-box;
+}
+
+* {
+  color: #15966F;
+  font-family: fantasy;
+  background-color:#FAFCF8;
+}
